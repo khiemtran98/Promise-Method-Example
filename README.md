@@ -1,1 +1,1 @@
-# Js_Promise-Method-Example
+# Js_Promise-Object-Example
